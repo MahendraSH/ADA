@@ -1,0 +1,39 @@
+module 1
+   1)lenear search 
+   2)bineary search
+   3) insertion sort
+   4) selection sort
+   5) bubble sort
+   6) rank sort
+   total =6;
+module 2
+1) merge sort
+2) quick sort
+3) clostest pair of points 
+4) matrix multipication
+total =4+6;
+module 3
+1) Bitpart cover min and max cover
+2) primes 
+3) krukals
+4) digitras
+5)topological sort
+6) haffman code
+total =6+10;
+module 4
+1) binominal 
+2) 0/1 knapsack
+3) matrix chine multipication
+4)warshal 
+5) frord warshal
+6) longest commen sequence
+7) optimal bineary search tree 
+total 7+16;
+module 5
+1) N qunees 
+2) sum of sub sets problem
+3)knapsack 
+4) Traveling sales man problem
+total 4+23;
+
+total 27;

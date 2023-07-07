@@ -1,0 +1,1 @@
+{"name":"Local: primes","url":"c:\\Users\\91789\\Desktop\\c\\ada\\primes.cpp","tests":[{"id":1656869430753,"input":"4\n999   1   5   2\n 1   999 999 999\n 5   999 999  3\n 2   999  3  999","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91789\\Desktop\\c\\ada\\primes.cpp","group":"local","local":true}
